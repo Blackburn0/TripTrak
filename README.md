@@ -13,18 +13,21 @@ $ pip install requirements.txt
 
 ## Usage
 
-Todo_app-Django requires a number of dependencies to run. The following command demonstrates how to run the app after installing all dependencies from requirements.txt.
+TripTrak requires a number of dependencies to run. The following command demonstrates how to run the app after installing all dependencies from requirements.txt.
+
+```
 $ python manage.py runserver
 ```
 
 ## Screenshoots
-![Screenshot (74)](https://github.com/user-attachments/assets/b39f6434-9d3c-4b33-aacf-3595da9b2284)
-![Screenshot (73)](https://github.com/user-attachments/assets/ea844cb6-4eac-4e29-9803-54ed2f465ada)
-![Screenshot (72)](https://github.com/user-attachments/assets/408b7771-7d00-4a8e-bc46-accdf69cfa3d)
-![Screenshot (71)](https://github.com/user-attachments/assets/a63000ac-1482-4dbf-a1a0-79a4a7a80abf)
-![Screenshot (70)](https://github.com/user-attachments/assets/59c99c79-0b19-40e4-9f46-034f8cc802dc)
-![Screenshot (76)](https://github.com/user-attachments/assets/ff178b40-d9f3-4ef3-9144-b454093edebe)
-![Screenshot (75)](https://github.com/user-attachments/assets/2140f15e-faae-49c7-9189-a339b047b554)
 
+
+![Screenshot (73)](https://github.com/user-attachments/assets/3dde129a-3d5d-4325-9cc2-b08830d8df0f)
+![Screenshot (72)](https://github.com/user-attachments/assets/c0028f49-2f09-4686-85ea-60e4e9cb4dc0)
+![Screenshot (71)](https://github.com/user-attachments/assets/661fae4d-07dd-4e04-9151-553099a6810d)
+![Screenshot (70)](https://github.com/user-attachments/assets/f0e624aa-035b-4484-9537-045d38b76fda)
+![Screenshot (76)](https://github.com/user-attachments/assets/a555442e-1fc0-4719-b6b1-31cc86895600)
+![Screenshot (75)](https://github.com/user-attachments/assets/c7def9e4-e952-4172-9a98-c127a57fefbf)
+![Screenshot (74)](https://github.com/user-attachments/assets/648adb54-1fee-4400-a165-28b111270fcd)
 
 
